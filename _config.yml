@@ -20,7 +20,7 @@ author: Juan
 ###############################################
 
 navbar-links:
-  About Me: "We dont talk about Juan nononoNO"
+  About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
