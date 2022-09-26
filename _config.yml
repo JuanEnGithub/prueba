@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: My Website
+title: Página de trofollos
 
 # Your name to show in the footer
-author: Some Person
+author: Juan
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "We dont talk about Juan nononoNO"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -51,11 +51,11 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  facebook: No tengo :P
+  github: JuanEnGithub
+  twitter: No tengo :P
+  patreon: No tengo :P
+  youtube: Si tengo pero no lo pongo :P
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
