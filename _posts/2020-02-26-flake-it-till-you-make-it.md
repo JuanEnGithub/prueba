@@ -1,6 +1,6 @@
 ---
 layout: post
-title: El caso es que es así
+title: ¿Que es este fenómeno lumínico?
 subtitle: Y es así porque Dios no existe
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
@@ -8,10 +8,14 @@ share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 
-¿Bajo qué circunstancias debemos salirnos de un camino? ¿Cuándo es esencial que terminemos lo que empezamos? Si compro una bolsa de maní y tengo una reacción alérgica, nadie me culpará si la tiro. Si terminara una relación con una mujer que me golpeó, nadie diría que tengo un problema de compromiso. Pero si me alejo de una ruta aparentemente segura porque mi alma tiene otras ideas, ¿soy un copo?
+#¿Cómo ocurre este efecto?
 
-La verdad es que nadie más puede saber definitivamente el camino que estamos aquí para recorrer. Es tentador escuchar, muchos de nosotros anhelamos al otro omnipotente, pero a menos que sean intuitivos psíquicos genuinos, no pueden saber. Todo lo que los demás pueden saber es su propia verdad, y si realmente han hecho el trabajo para excavarla, tendrán el buen sentido de saber que no pueden conocer genuinamente la de nadie más. Sólo el alma conoce el camino que está aquí para caminar. Dado que usted es el único que vive en su templo, solo usted puede conocer sus escrituras y su estructura interpretativa.
+Las playas con bioluminiscencia son un atractivo turístico sorprendente que se puede apreciar en varios lugares del mundo. En estas playas, el agua brilla por la noche, pues una gran cantidad de criaturas bioluminiscentes, una clase de plancton, se iluminan en tonalidades de azul neón, creando un fenómeno fascinante para los espectadores, así como para los nadadores, navegantes y surfistas.
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+Este fenómeno, llamado bioluminiscencia, es más común de lo que se cree, pero ocurre en pocos lugares en el mundo. La razón es que en estas aguas viven ciertas algas unicelulares que, con el movimiento de las olas, se defienden disparando una especie de láser que emite destellos luminosos.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+#¿Cómo son las playas con bioluminiscencia?
+
+Estos brillos de luces, con el movimiento de las olas, crean un espectáculo maravilloso, que se puede disfrutar cómodamente desde la playa o sobre las olas: caminando sobre la orilla, nadando, en bote, en kayak, bicicleta acuática, etc.
+
+Además, cuando un animal acuático con movilidad alta hace acto de presencia, al moverse se puede apreciar también este fenómeno luminoso ya que el animal va dejando una estela a su paso debido a su movimiento.
