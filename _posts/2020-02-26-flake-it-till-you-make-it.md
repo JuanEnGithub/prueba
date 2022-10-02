@@ -3,7 +3,7 @@ layout: post
 title: ¿Que es este fenómeno lumínico?
 subtitle: Información sobre la bioluminiscencia acuática
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb2.png
+thumbnail-img: /assets/img/thumbBio.png
 share-img: /assets/img/path2.jpg
 ---
 
