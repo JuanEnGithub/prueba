@@ -2,8 +2,6 @@
 layout: post
 title: Lugares con playas bioluminiscentes
 subtitle: A lo largo del mundo
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 comments: true
 ---
 
