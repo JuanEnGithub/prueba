@@ -128,7 +128,7 @@ navbar-var-length: false
 navbar-col: "#CCFFCC"
 navbar-text-col: "#009900"
 navbar-border-col: "#B3FFB3"
-page-img: "/assets/img/fondo.png"
+page-img: "/assets/img/fondoBio.png"
 text-col: "#009900"
 link-col: "#008AFF"
 hover-col: "#0085A1"
