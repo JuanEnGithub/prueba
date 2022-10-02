@@ -1,78 +1,27 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: Lugares con playas bioluminiscentes
+subtitle: A lo largo del mundo
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+# Isla de Holbox, México
 
-**Here is some bold text**
+En México hay varias playas con bioluminiscencia, pero en la isla de Holbox este espectáculo se puede apreciar durante todo el año, aunque es más pronunciado de marzo a noviembre, cuando la temperatura del agua es más cálida.
 
-## Here is a secondary heading
+Desde el año 2016 se celebra en Holbox el Festival de Bioluminiscencia, y este fenómeno coincide con la Hora del Planeta, cuando se apagan todas las luces de la isla y el efecto luminoso se puede apreciar al máximo.
 
-Here's a useless table:
+# Bahía Mosquito, Puerto Rico
+Una de las playas bioluminiscentes más atractivas se encuentra en la isla de Vieques, en Puerto Rico, donde se encuentra la bahía que ostenta el récord Guinness por ser la playa con bioluminiscencia más brillante del planeta, con 480.000 seres vivos por litro.
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+# Indian River Lagoon, Florida
+Indian River Lagoon es el ecosistema de lagunas que tiene la mayor biodiversidad en el hemisferio norte, con más de 3.000 especies de flora y fauna, entre los que se encuentra el plancton bioluminiscente, así como medusas peine bioluminiscentes.
 
+# Bahía de Halong, Vietnam
+En esta bahía, con sus casi 2000 impresionantes pilares de piedra caliza y sus aguas bioluminiscentes y que ha sido declarado Patrimonio de la Humanidad por la UNESCO, puede apreciarse el fenómeno en barco, lo suficientemente lejos de las luces de la ciudad.
 
-How about a yummy crepe?
+Otros lugares donde se puede observar el espectáculo natural de bioluminiscencia son las Islas del Rosario o a Isla Barú, en Colombia, y la laguna Luminous, en Jamaica.
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+Deja tus comentarios sobre estos fabulosos destinos turísticos con playas con bioluminiscencia. Comparte con tus amigos, pinchando en los botones de las redes sociales.
