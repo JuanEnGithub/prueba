@@ -16,6 +16,8 @@ Desde el año 2016 se celebra en **Holbox el Festival de Bioluminiscencia**, y e
 # Bahía Mosquito, Puerto Rico
 Una de las playas bioluminiscentes más atractivas se encuentra en la isla de **Vieques, en Puerto Rico**, donde se encuentra la bahía que ostenta el récord Guinness por ser la playa con bioluminiscencia más brillante del planeta, con 480.000 seres vivos por litro.
 
+![Puerto Rico](../assets/img/playa2mosquitoBio.jpg)
+
 # Indian River Lagoon, Florida
 **Indian River Lagoon** es el ecosistema de lagunas que tiene la mayor biodiversidad en el hemisferio norte, con más de 3.000 especies de flora y fauna, entre los que se encuentra el plancton bioluminiscente, así como medusas peine bioluminiscentes.
 
