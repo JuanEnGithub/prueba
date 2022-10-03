@@ -10,3 +10,4 @@ subtitle: Documentación sobre recursos utilizados
 ## Ayudas en escritura
 - Github Docs: [Basic writing and formatting syntax](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - Markdown Tutorials: [Lecciones del 1 al 7](https://www.markdowntutorial.com/lesson/7/)
+- W3schools: [Color picker](https://www.w3schools.com/colors/colors_picker.asp)
