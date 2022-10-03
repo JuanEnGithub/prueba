@@ -11,15 +11,17 @@ En México hay varias playas con bioluminiscencia, pero en **la isla de Holbox**
 
 Desde el año 2016 se celebra en **Holbox el Festival de Bioluminiscencia**, y este fenómeno coincide con la Hora del Planeta, cuando se apagan todas las luces de la isla y el efecto luminoso se puede apreciar al máximo.
 
-![Holbox](../assets/img/playa3lagoon.jpg)
+![Holbox](../assets/img/playa3lagoonBio.jpg)
 
 # Bahía Mosquito, Puerto Rico
 Una de las playas bioluminiscentes más atractivas se encuentra en la isla de **Vieques, en Puerto Rico**, donde se encuentra la bahía que ostenta el récord Guinness por ser la playa con bioluminiscencia más brillante del planeta, con 480.000 seres vivos por litro.
 
-![Puerto Rico](../assets/img/playa2mosquitoBio.jpg)
+![Mosquito](../assets/img/playa2mosquitoBio.jpg)
 
 # Indian River Lagoon, Florida
 **Indian River Lagoon** es el ecosistema de lagunas que tiene la mayor biodiversidad en el hemisferio norte, con más de 3.000 especies de flora y fauna, entre los que se encuentra el plancton bioluminiscente, así como medusas peine bioluminiscentes.
+
+![Lagoon](../assets/img/playa1holboxBio.jpg)
 
 # Bahía de Halong, Vietnam
 En esta bahía, con sus casi 2000 impresionantes pilares de piedra caliza y sus aguas bioluminiscentes y que ha sido declarado Patrimonio de la Humanidad por la UNESCO, puede apreciarse el fenómeno en barco, lo suficientemente lejos de las luces de la ciudad.
