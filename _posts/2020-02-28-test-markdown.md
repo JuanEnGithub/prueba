@@ -23,8 +23,5 @@ Una de las playas bioluminiscentes más atractivas se encuentra en la isla de **
 
 ![Lagoon](../assets/img/playa1holboxBio.jpg)
 
-# Bahía de Halong, Vietnam
-En esta bahía, con sus casi 2000 impresionantes pilares de piedra caliza y sus aguas bioluminiscentes y que ha sido declarado Patrimonio de la Humanidad por la UNESCO, puede apreciarse el fenómeno en barco, lo suficientemente lejos de las luces de la ciudad.
-
 
 ***Otros lugares donde se puede observar el espectáculo natural de bioluminiscencia son las Islas del Rosario o a Isla Barú, en Colombia, la laguna Luminous, en Jamaica y en la Bahía de Halong, Vietnam.***
