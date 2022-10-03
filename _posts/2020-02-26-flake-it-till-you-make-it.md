@@ -13,6 +13,8 @@ share-img: /assets/img/path2.jpg
 
 **Este fenómeno, llamado bioluminiscencia, es más común de lo que se cree, pero ocurre en pocos lugares en el mundo. La razón es que en estas aguas viven ciertas algas unicelulares que, con el movimiento de las olas, se defienden disparando una especie de láser que emite destellos luminosos.**
 
+![Footprints](../assets/img/footprintsBio.jpg)
+
 # ¿Cómo son las playas con bioluminiscencia?
 
 **Estos brillos de luces, con el movimiento de las olas, crean un espectáculo maravilloso, que se puede disfrutar cómodamente desde la playa o sobre las olas: caminando sobre la orilla, nadando, en bote, en kayak, bicicleta acuática, etc.**
